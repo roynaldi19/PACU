@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PACU</string>
+    <string name="pacu">PACU</string>
+    <string name="peringatan_dini_dan_analisa_cuaca_umum">Peringatan Dini dan Analisa Cuaca Umum</string>
 </resources>
